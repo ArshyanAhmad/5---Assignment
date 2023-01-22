@@ -1,0 +1,40 @@
+1. Why do we start learning a programming language with "hellow wolrd"?
+
+Ans: We Start learning programming language with "hellow world" because this is basic
+     syntax and good for beginner its output is a type of string and its very easy
+     to understanding.
+
+2. How do we use of comments and how do you write comments in HTML?
+
+Ans: Syntax of comment is <!-- Project --> Project is a comment this text is not execute
+     in web browser
+
+3. What are elements, tags and attributes, and the difference between them.
+
+Elements: elements are the basic building blocks of a webpage. They are used to 
+          structure the content of a webpage and define its layout.  Elements are 
+          represented by tags,For example, the paragraph element is represented 
+          by the <p> </p>tag.
+
+Tags: Tags are keywords enclosed in angle brackets < > that are used to create 
+      elements on a webpage. HTML tags typically come in pairs; an opening tag and a closing tag, 
+      Some tags, like the image tag <img> and line break tag <br>, are self-closing and don't have a closing tag,
+      like this:
+
+Attributes: Different elements have different attributes that can be used with them, and some attributes 
+            can be used with multiple elements. The HTML specification provides a list of available 
+            attributes for each element, and their use case and behavior
+            For example, the href attribute is used to specify the URL of a link in the <a> tag, like this:
+            The src attribute is used to specify the source URL of an image in the <img> tag, like this:
+
+4. Berify explain what is HTML entities?
+
+Ans: HTML entities are special characters that can be used in HTML and XML documents to 
+     display characters that are not normally available in the character set of the document.
+     These characters are represented by a special code called an entity reference, which 
+     is made up of an ampersand &, followed by the name or the number of the entity, 
+     and a semicolon ; at the end.
+
+a. &lt; : This entity reference is used to display the < character.
+b. &gt; : This entity reference is used to display the > character.
+ 
